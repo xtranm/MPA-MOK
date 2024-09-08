@@ -1,6 +1,6 @@
 # Modern Cryptography - MPA-MOK
 
-## Acad. year: 2023/2024 - [Course detail](https://moodle.vut.cz/course/view.php?id=268968)
+## Acad. year: 2024/2025 - [Course detail](https://moodle.vut.cz/course/view.php?id=280353)
 
 > The course covers the topics of modern cryptography and its concrete applications. In particular, the course covers: post-quantum cryptography, lattice-based cryptography, cloud computing, secure data processing, homomorphic encryption, secure multi-party computation, secret sharing, e-voting, blockchain, cryptocurrencies, data privacy, and disclosure risk control.
 
@@ -20,38 +20,10 @@ The credit is required for final exam admission and is awarded upon obtaining at
 
 ## Laboratiries:
 - **Laboratory 1** - [Introduction to python](labs/lab1/README.md)
-- **Laboratory 2** - [Numpy library and Lattice](labs/lab2/README.md)
-- **Laboratory 3** - [LWE problem and Regev scheme](labs/lab3/README.md)
-- **Laboratory 4** - [PQC](labs/lab4/README.md)
-- **Laboratory 5** - [Homomorphic Encryption](labs/lab5/README.md)
-- **Laboratory 6** - [Fully Homomorphic Encryption and Applications](labs/lab6/README.md)
-- **Laboratory 7** - [Secret Sharing](labs/lab7/README.md)
-- **Laboratory 8** - [Secure Multiparty Computation](labs/lab8/README.md)
-- **Laboratory 9** - [Blockchain](labs/lab9/README.md) & **Project Discussion**
-- **Laboratory 10** - [Smart Contracts and Cryptocurrencies](labs/lab10/README.md)
-- **Laboratory 11** - [Data Anonymization](labs/lab11/README.md)
-- **Laboratory 12** - [K-anonymity](labs/lab12/README.md)
-
 ---
 
 ## Classes:
 - **Lecture 1** - [Introduction](https://moodle.vut.cz/pluginfile.php/707307/mod_resource/content/1/1.pdf)
-- [Post-Quantum Cycles]
-  - **Lecture 2** - [Introduction to Lattice-based Cryptography](https://moodle.vut.cz/pluginfile.php/779112/mod_resource/content/1/2.pdf)
-  - **Lecture 3** - [Lattice-based Cryptography on LWE and R-LWE problems](https://moodle.vut.cz/pluginfile.php/784161/mod_resource/content/1/3.pdf)
-  - **Lecture 4** - [Kyber, Saber and Dilithium](https://moodle.vut.cz/pluginfile.php/786886/mod_resource/content/1/4.pdf)
-- [Secure Computation Cycles]
-  - **Lecture 5** - [Homomorphic Encryption](https://moodle.vut.cz/pluginfile.php/789682/mod_resource/content/2/5.pdf)
-  - **Lecture 6** - [Fully Homomorphic Encryption and Applications](https://moodle.vut.cz/pluginfile.php/790830/mod_resource/content/2/6.pdf)
-  - **Lecture 7** - [Secret Sharing](https://moodle.vut.cz/pluginfile.php/515174/mod_resource/content/1/7.pdf)
-  - **Lecture 8** - [Secure Multiparty Computation](https://moodle.vut.cz/pluginfile.php/793509/mod_resource/content/1/8.pdf)
-- [Decentralized Systems Cycles]
-  - **Lecture 9** - [Blockchain and Smart contracts](https://moodle.vut.cz/pluginfile.php/795705/mod_resource/content/2/9.pdf)
-  - **Lecture 10** - [Cryptocurrency](https://moodle.vut.cz/pluginfile.php/795995/mod_resource/content/3/10.pdf)
-- [Data Privacy Cycles]
-  - **Lecture 11** - [Data Anonymization](https://moodle.vut.cz/pluginfile.php/798875/mod_resource/content/1/11.pdf)
-  - **Lecture 12** - [Differential Privacy, k-anonymity and Record Linkage](https://moodle.vut.cz/pluginfile.php/800206/mod_resource/content/2/12.pdf)
-
 --- 
 
 ## Projects:
@@ -75,6 +47,6 @@ Projects are based on publications, i.e. articles on topics taught in this cours
 
 ## References:
 
-eLearning [course](https://moodle.vut.cz/course/view.php?id=268968)  
-[Supervisor's Notice](https://moodle.vut.cz/pluginfile.php/723165/mod_resource/content/1/FEKT-MPA-MOK-vyhlaska-garanta-23.pdf)  
-[Preliminaries](https://moodle.vut.cz/pluginfile.php/707298/mod_resource/content/2/preliminaries.pdf)
+eLearning [course](https://moodle.vut.cz/course/view.php?id=280353)  
+[Supervisor's Notice](https://moodle.vut.cz/pluginfile.php/902623/mod_resource/content/1/FEKT-MPA-MOK-vyhlaska-garanta-24.pdf)  
+[Preliminaries](https://moodle.vut.cz/pluginfile.php/901514/mod_resource/content/1/preliminaries.pdf)
