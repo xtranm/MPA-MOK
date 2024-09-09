@@ -23,7 +23,7 @@ The credit is required for final exam admission and is awarded upon obtaining at
 ---
 
 ## Classes:
-- **Lecture 1** - [Introduction](https://moodle.vut.cz/pluginfile.php/707307/mod_resource/content/1/1.pdf)
+- **Lecture 1** - [Introduction](https://moodle.vut.cz/pluginfile.php/904335/mod_resource/content/1/1.pdf)
 --- 
 
 ## Projects:
