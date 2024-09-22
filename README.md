@@ -18,12 +18,14 @@ The credit is required for final exam admission and is awarded upon obtaining at
 
 ---
 
-## Laboratiries:
+## Laboratories:
 - **Laboratory 1** - [Introduction to python](labs/lab1/README.md)
+- **Laboratory 2** - [Introduction to python](labs/lab2/README.md)
 ---
 
 ## Classes:
 - **Lecture 1** - [Introduction](https://moodle.vut.cz/pluginfile.php/904335/mod_resource/content/1/1.pdf)
+- **Lecture 2** - [Introduction](https://moodle.vut.cz/pluginfile.php/928437/mod_resource/content/1/2.pdf)
 --- 
 
 ## Projects:
