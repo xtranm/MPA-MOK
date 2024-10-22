@@ -95,4 +95,4 @@ requests.post(f'http://SERVER_ADDRESS/check_letter', data={'letter': serialized_
 ## Resources
 - [Awesome Homomorphic Encryption](https://github.com/jonaschn/awesome-he)
 - [Google open-source FHE](https://github.com/google/fully-homomorphic-encryption)
-- https://vitalik.ca/general/2020/07/20/homomorphic.html
+- https://vitalik.eth.limo/general/2020/07/20/homomorphic.html
